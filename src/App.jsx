@@ -68,6 +68,7 @@ class App extends Component {
 
     return (
       <>
+      <h2>Text</h2>
         <Searchbar onSubmit={this.handleSearchSubmit} />
         <ImageGallery images={images} onImageClick={this.openModal} />
         {isLoading && <Loader />}

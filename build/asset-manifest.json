@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-jsx-hw-14-new/static/css/main.b0434269.css",
+    "main.js": "/goit-jsx-hw-14-new/static/js/main.05676d8a.js",
+    "index.html": "/goit-jsx-hw-14-new/index.html",
+    "main.b0434269.css.map": "/goit-jsx-hw-14-new/static/css/main.b0434269.css.map",
+    "main.05676d8a.js.map": "/goit-jsx-hw-14-new/static/js/main.05676d8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0434269.css",
+    "static/js/main.05676d8a.js"
+  ]
+}
